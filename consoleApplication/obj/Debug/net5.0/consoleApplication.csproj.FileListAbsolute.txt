@@ -1,0 +1,16 @@
+D:\.NetCoreMVCcommands\consoleApplication\bin\Debug\net5.0\consoleApplication.exe
+D:\.NetCoreMVCcommands\consoleApplication\bin\Debug\net5.0\consoleApplication.deps.json
+D:\.NetCoreMVCcommands\consoleApplication\bin\Debug\net5.0\consoleApplication.runtimeconfig.json
+D:\.NetCoreMVCcommands\consoleApplication\bin\Debug\net5.0\consoleApplication.runtimeconfig.dev.json
+D:\.NetCoreMVCcommands\consoleApplication\bin\Debug\net5.0\consoleApplication.dll
+D:\.NetCoreMVCcommands\consoleApplication\bin\Debug\net5.0\ref\consoleApplication.dll
+D:\.NetCoreMVCcommands\consoleApplication\bin\Debug\net5.0\consoleApplication.pdb
+D:\.NetCoreMVCcommands\consoleApplication\obj\Debug\net5.0\consoleApplication.csprojAssemblyReference.cache
+D:\.NetCoreMVCcommands\consoleApplication\obj\Debug\net5.0\consoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetCoreMVCcommands\consoleApplication\obj\Debug\net5.0\consoleApplication.AssemblyInfoInputs.cache
+D:\.NetCoreMVCcommands\consoleApplication\obj\Debug\net5.0\consoleApplication.AssemblyInfo.cs
+D:\.NetCoreMVCcommands\consoleApplication\obj\Debug\net5.0\consoleApplication.csproj.CoreCompileInputs.cache
+D:\.NetCoreMVCcommands\consoleApplication\obj\Debug\net5.0\consoleApplication.dll
+D:\.NetCoreMVCcommands\consoleApplication\obj\Debug\net5.0\ref\consoleApplication.dll
+D:\.NetCoreMVCcommands\consoleApplication\obj\Debug\net5.0\consoleApplication.pdb
+D:\.NetCoreMVCcommands\consoleApplication\obj\Debug\net5.0\consoleApplication.genruntimeconfig.cache
